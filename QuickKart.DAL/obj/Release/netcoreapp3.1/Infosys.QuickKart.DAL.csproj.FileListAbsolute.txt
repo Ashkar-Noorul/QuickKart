@@ -1,0 +1,30 @@
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\bin\Release\netcoreapp3.1\Infosys.QuickKart.DAL.deps.json
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\bin\Release\netcoreapp3.1\Infosys.QuickKart.DAL.runtimeconfig.json
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\bin\Release\netcoreapp3.1\Infosys.QuickKart.DAL.runtimeconfig.dev.json
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\bin\Release\netcoreapp3.1\Infosys.QuickKart.DAL.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\bin\Release\netcoreapp3.1\Infosys.QuickKart.DAL.pdb
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\bin\Release\netcoreapp3.1\Infosys.QuickKart.Common.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\bin\Release\netcoreapp3.1\Infosys.QuickKart.Common.pdb
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.csprojAssemblyReference.cache
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.AssemblyInfoInputs.cache
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.AssemblyInfo.cs
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.csproj.CoreCompileInputs.cache
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.csproj.CopyComplete
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.pdb
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.genruntimeconfig.cache
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\bin\Release\netcoreapp3.1\Infosys.QuickKart.DAL.deps.json
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\bin\Release\netcoreapp3.1\Infosys.QuickKart.DAL.runtimeconfig.json
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\bin\Release\netcoreapp3.1\Infosys.QuickKart.DAL.runtimeconfig.dev.json
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\bin\Release\netcoreapp3.1\Infosys.QuickKart.DAL.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\bin\Release\netcoreapp3.1\Infosys.QuickKart.DAL.pdb
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\bin\Release\netcoreapp3.1\Infosys.QuickKart.Common.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\bin\Release\netcoreapp3.1\Infosys.QuickKart.Common.pdb
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.csprojAssemblyReference.cache
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.AssemblyInfoInputs.cache
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.AssemblyInfo.cs
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.csproj.CopyComplete
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.pdb
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.DAL\obj\Release\netcoreapp3.1\Infosys.QuickKart.DAL.genruntimeconfig.cache

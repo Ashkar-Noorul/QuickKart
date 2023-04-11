@@ -1,0 +1,662 @@
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.exe
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.deps.json
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.runtimeconfig.json
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.runtimeconfig.dev.json
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.pdb
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.BusinessLayer.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Common.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.DAL.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.BusinessLayer.pdb
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Common.pdb
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.DAL.pdb
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csprojAssemblyReference.cache
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.AssemblyInfoInputs.cache
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.AssemblyInfo.cs
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csproj.CoreCompileInputs.cache
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\staticwebassets\Infosys.QuickKart.Services.StaticWebAssets.Manifest.cache
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\staticwebassets\Infosys.QuickKart.Services.StaticWebAssets.xml
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\Infosys.QuickKart.Services.styles.css
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.RazorTargetAssemblyInfo.cache
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csproj.CopyComplete
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.dll
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.pdb
+D:\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.genruntimeconfig.cache
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.exe
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.deps.json
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.runtimeconfig.json
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.runtimeconfig.dev.json
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.pdb
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.BusinessLayer.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Common.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.DAL.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.BusinessLayer.pdb
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Common.pdb
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.DAL.pdb
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csprojAssemblyReference.cache
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.AssemblyInfoInputs.cache
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.AssemblyInfo.cs
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csproj.CoreCompileInputs.cache
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\staticwebassets\Infosys.QuickKart.Services.StaticWebAssets.Manifest.cache
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\staticwebassets\Infosys.QuickKart.Services.StaticWebAssets.xml
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\Infosys.QuickKart.Services.styles.css
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.RazorTargetAssemblyInfo.cache
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csproj.CopyComplete
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.dll
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.pdb
+D:\OneDrive - Infosys Limited\Angular\Angular 9 course\Version change to 3.1\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.genruntimeconfig.cache
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.exe
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.deps.json
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.runtimeconfig.json
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.runtimeconfig.dev.json
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.pdb
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.BusinessLayer.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Common.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.DAL.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.BusinessLayer.pdb
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Common.pdb
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.DAL.pdb
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csprojAssemblyReference.cache
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.AssemblyInfoInputs.cache
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.AssemblyInfo.cs
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csproj.CoreCompileInputs.cache
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\staticwebassets\Infosys.QuickKart.Services.StaticWebAssets.Manifest.cache
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\staticwebassets\Infosys.QuickKart.Services.StaticWebAssets.xml
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\Infosys.QuickKart.Services.styles.css
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.RazorTargetAssemblyInfo.cache
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csproj.CopyComplete
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.dll
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.pdb
+C:\Users\jaimol.sadasivan\Desktop\Infosys.QuickKart\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.genruntimeconfig.cache
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.exe
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.deps.json
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.runtimeconfig.json
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.runtimeconfig.dev.json
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.pdb
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.DAL.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.DAL.pdb
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csprojAssemblyReference.cache
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.AssemblyInfoInputs.cache
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.AssemblyInfo.cs
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csproj.CoreCompileInputs.cache
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\staticwebassets\Infosys.QuickKart.Services.StaticWebAssets.Manifest.cache
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\staticwebassets\Infosys.QuickKart.Services.StaticWebAssets.xml
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\Infosys.QuickKart.Services.styles.css
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.RazorTargetAssemblyInfo.cache
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csproj.CopyComplete
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.dll
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.pdb
+D:\Angular\Remove BL\Infosys.QuickKart\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.genruntimeconfig.cache
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.exe
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.deps.json
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.runtimeconfig.json
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.runtimeconfig.dev.json
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.pdb
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.DAL.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.DAL.pdb
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csproj.AssemblyReference.cache
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.AssemblyInfoInputs.cache
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.AssemblyInfo.cs
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csproj.CoreCompileInputs.cache
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\staticwebassets\Infosys.QuickKart.Services.StaticWebAssets.Manifest.cache
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\staticwebassets\Infosys.QuickKart.Services.StaticWebAssets.xml
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\Infosys.QuickKart.Services.styles.css
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.RazorTargetAssemblyInfo.cache
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csproj.CopyComplete
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.dll
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.pdb
+C:\Users\nooru\source\repos\Infosys.QuickKart Solution\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.genruntimeconfig.cache
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\appsettings.json
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.exe
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.deps.json
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.runtimeconfig.json
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.runtimeconfig.dev.json
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.Services.pdb
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.DAL.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\bin\Debug\netcoreapp3.1\Infosys.QuickKart.DAL.pdb
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csproj.AssemblyReference.cache
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.AssemblyInfoInputs.cache
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.AssemblyInfo.cs
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csproj.CoreCompileInputs.cache
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.MvcApplicationPartsAssemblyInfo.cache
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\staticwebassets\Infosys.QuickKart.Services.StaticWebAssets.Manifest.cache
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\staticwebassets\Infosys.QuickKart.Services.StaticWebAssets.xml
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\Infosys.QuickKart.Services.styles.css
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.RazorTargetAssemblyInfo.cache
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.csproj.CopyComplete
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.dll
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.pdb
+D:\visual_studio\Solution1\Infosys.QuickKart.Services\obj\Debug\netcoreapp3.1\Infosys.QuickKart.Services.genruntimeconfig.cache

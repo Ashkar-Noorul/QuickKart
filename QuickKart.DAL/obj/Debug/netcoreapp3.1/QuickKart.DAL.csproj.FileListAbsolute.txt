@@ -1,0 +1,13 @@
+D:\visual_studio\Solution1\QuickKart.DAL\bin\Debug\netcoreapp3.1\QuickKart.DAL.deps.json
+D:\visual_studio\Solution1\QuickKart.DAL\bin\Debug\netcoreapp3.1\QuickKart.DAL.runtimeconfig.json
+D:\visual_studio\Solution1\QuickKart.DAL\bin\Debug\netcoreapp3.1\QuickKart.DAL.runtimeconfig.dev.json
+D:\visual_studio\Solution1\QuickKart.DAL\bin\Debug\netcoreapp3.1\QuickKart.DAL.dll
+D:\visual_studio\Solution1\QuickKart.DAL\bin\Debug\netcoreapp3.1\QuickKart.DAL.pdb
+D:\visual_studio\Solution1\QuickKart.DAL\obj\Debug\netcoreapp3.1\QuickKart.DAL.csproj.AssemblyReference.cache
+D:\visual_studio\Solution1\QuickKart.DAL\obj\Debug\netcoreapp3.1\QuickKart.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual_studio\Solution1\QuickKart.DAL\obj\Debug\netcoreapp3.1\QuickKart.DAL.AssemblyInfoInputs.cache
+D:\visual_studio\Solution1\QuickKart.DAL\obj\Debug\netcoreapp3.1\QuickKart.DAL.AssemblyInfo.cs
+D:\visual_studio\Solution1\QuickKart.DAL\obj\Debug\netcoreapp3.1\QuickKart.DAL.csproj.CoreCompileInputs.cache
+D:\visual_studio\Solution1\QuickKart.DAL\obj\Debug\netcoreapp3.1\QuickKart.DAL.dll
+D:\visual_studio\Solution1\QuickKart.DAL\obj\Debug\netcoreapp3.1\QuickKart.DAL.pdb
+D:\visual_studio\Solution1\QuickKart.DAL\obj\Debug\netcoreapp3.1\QuickKart.DAL.genruntimeconfig.cache

@@ -1,0 +1,50 @@
+<h1 style="text-align: center">Welcome to QuickKartApp!</h1>
+<div class="container">
+  <div class="row">
+    <div class="col-md-2">
+    </div>
+    <div class="col-md-8">
+      <h2 style="text-align:center"><strong><em>Feedback Form</em></strong></h2>
+      <form [formGroup]="feedbackForm" (ngSubmit)="SubmitForm(feedbackForm)" style="text-align:center; font-size:x-large">
+        <p>If you have a suggestion or any feedback for us, we'd love too hear it.</p>
+        <div class="form-group">
+          <label><strong>Name</strong></label>
+          <input type="text" class="form-control" formControlName="name" placeholder="Write your name" />
+          <p *ngIf="feedbackForm.controls.name.errors?.required && feedbackForm.controls.name.touched" class="alert alert-danger">
+            This field is required!
+          </p>
+          <p *ngIf="feedbackForm.controls.name.errors?.maxLength && feedbackForm.controls.name.dirty" class="alert alert-danger">
+            Only 30 characters allowed!
+          </p>
+        </div>
+        <div class="form-group">
+          <label ><strong>Email</strong></label>
+          <input type="email" class="form-control" formControlName="email" placeholder="Write your email" />
+          <div *ngIf="feedbackForm.get('email').invalid && (feedbackForm.get('email').dirty || feedbackForm.get('email').touched)" class="alert alert-danger">
+            <div *ngIf ="feedbackForm.get('email').errors?.required">Email is required</div>
+            <div *ngIf ="feedbackForm.get('email').errors?.email">Invalid email address</div>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="feedback"><strong>Please leave your feedback below</strong></label>
+          <textarea id="feedback" class="form-control" formControlName="feedback" placeholder="Write your valuable feedback" rows="4" cols="50"></textarea>
+          <p *ngIf="feedbackForm.controls.feedback.errors?.required &&
+         feedbackForm.controls.feedback.touched" class="alert alert-danger">
+            This field is required!
+          </p>
+        </div>
+        <br />
+        <div class="form-group">
+          <button type="submit" class="button">Submit</button>
+        </div>
+      </form>
+      <br />
+      <div style="text-align:center; color:red">
+        {{msg}}
+      </div>
+      <br />
+    </div>
+    <div class="col-md-2">
+    </div>
+  </div>
+</div>

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Infosys.QuickKart.DAL",
+    "\\QuickKartApp",
+    "\\QuickKartApp\\src",
+    "\\QuickKartApp\\src\\app",
+    "\\QuickKartApp\\src\\app\\home",
+    "\\QuickKartApp\\src\\app\\quickKart-services",
+    "\\QuickKartApp\\src\\app\\view-cart",
+    "\\QuickKartApp\\src\\app\\view-products",
+    "\\QuickKartApp\\src\\app\\view-purchases"
+  ],
+  "PreviewInSolutionExplorer": false
+}

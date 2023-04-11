@@ -1,0 +1,34 @@
+<app-customer-layout></app-customer-layout>
+<div class="myContent">
+  <h4 style="text-align:center">Your Purchase Details</h4>
+  <br />
+  <div class="table-responsive">
+    <table class="table" style="border:2px solid rgba(220,230,242,1);" *ngIf="purchaseDetails && purchaseDetails.length">
+      <thead>
+        <tr style="background-color:rgba(220,230,242,1); font-size:12pt; text-align:center;">
+          <th>Purchase Id</th>
+          <th>Product Name</th>
+          <th>Product Id</th>
+          <th>Quantity Purchased</th>
+          <th>Purchase Date</th>
+          <th colspan="2">Action(s)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let purchase of purchaseDetails" style="background-color:white; text-align:center;">
+          <td>{{purchase.purchaseId}}</td>
+          <td>{{purchase.productName}}</td>
+          <td>{{purchase.productId}}</td>
+          <td>{{purchase.quantityPurchased}}</td>
+          <td>{{purchase.purchaseDate}}</td>
+          <td><button title="Purchase Again" class="btn">Purchase Again</button></td>
+          <td><button title="Rate the Product" (click)="addRating(purchase)" class="btn">Rate Product</button></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div *ngIf="showError" style="">
+      <h4 class="jumbotron" style="text-align:center">{{errorMsg}}</h4>
+    </div>
+  </div>
+</div>
